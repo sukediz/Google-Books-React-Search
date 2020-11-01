@@ -1,6 +1,5 @@
 # Google Books React Search
 
-
 [![](https://img.shields.io/badge/License-ISC-green)](https://opensource.org/licenses/ISC)
 
 ### Description
